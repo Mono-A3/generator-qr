@@ -4,7 +4,7 @@
 
 ## 🌟 Descripción
 
-**Generator QR** es una aplicación web que te permite generar códigos QR a partir de cualquier enlace que ingreses. Es una herramienta útil para compartir enlaces de manera eficiente, ya sea en presentaciones, folletos, redes sociales o cualquier otro medio. El proyecto está diseñado para ser fácil de usar y accesible para cualquier persona.
+Herramienta web que permite a los usuarios generar códigos QR de forma rápida para compartir enlaces o texto. Desarrollada con HTML, CSS y JavaScript puro, integra una librería externa para la generación de los QR, y proporciona la opción de descarga directa. Totalmente responsiva y libre de dependencias pesadas.
 
 ## 💡 Proyectos Destacados
 
